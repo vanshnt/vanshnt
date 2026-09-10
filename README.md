@@ -154,6 +154,7 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
                       │
                       ▼
            🎮 Game Development
+ ```
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
@@ -169,4 +170,4 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
 <br><br>
 
 ⭐ Thanks for visiting my profile!
-</div> ```
+</div>
