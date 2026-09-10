@@ -164,6 +164,7 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div>
+<br>
 🐍 Contribution Graph
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </div>
 🌐 Connect With Me
