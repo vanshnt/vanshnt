@@ -78,7 +78,7 @@ A password management application developed in two versions:
 
 **Technologies**
 
-`Python` `MySQL`
+`Java`
 
 ---
 
