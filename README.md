@@ -156,7 +156,7 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
            🎮 Game Development
  ```
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshnt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username="vanshnt"&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username="vanshnt"&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br><br>
 
@@ -164,7 +164,7 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
 🐍 Contribution Graph
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </div>
 🌐 Connect With Me
-<div align="center"> <a href="https://in.linkedin.com/in/vansh-bijwani-290856271"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="YOUR_GITHUB_URL"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
+<div align="center"> <a href="https://in.linkedin.com/in/vansh-bijwani-290856271"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/vanshnt"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Still+learning.;Still+building.;Still+improving.;The+journey+has+just+started+%F0%9F%9A%80" alt="Footer Typing Animation"/>
 
 <br><br>
