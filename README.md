@@ -162,7 +162,7 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
 </div>
 
 <br><br>
-
+<div align = "center">
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div>
 <br>
 🐍 Contribution Graph
