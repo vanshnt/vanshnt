@@ -160,8 +160,6 @@ I'm interested in **Artificial Intelligence** and enjoy exploring how AI can imp
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=vanshnt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vanshnt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
-
-<br><br>
 <div align = "center">
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div>
 <br>
